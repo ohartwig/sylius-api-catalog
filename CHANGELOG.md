@@ -1,3 +1,14 @@
+## [1.1.0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.0.0...v1.1.0) (2026-07-28)
+
+### :sparkles: Features
+
+* declare licensing for config files via REUSE.toml ([64d583d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/64d583d83808baeaf381d00ffbe2d74462edb24d))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.25.0 ([e41a2e3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e41a2e326ccba2daebed3a0f335dadabd8905856))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.25.1 ([95fd91e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/95fd91ecad503ad4c4456faf4d5c6516cad02d4c))
+
 ## 1.0.0 (2026-07-28)
 
 ### :sparkles: Features
