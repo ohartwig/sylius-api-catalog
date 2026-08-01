@@ -1,3 +1,17 @@
+## [1.1.2](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.1...v1.1.2) (2026-08-01)
+
+### :bug: Fixes
+
+* **phpstan:** resolve all 3 level-8 findings without suppressions ([b897740](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/b897740336ef009697ee80d14c50de46b3f14e3e))
+
+### :zap: Refactor
+
+* **phpstan:** use the shared level-8 standard ([d3e3a9a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/d3e3a9a990ff69826841cd1bd893e9790b07c939))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.32.2 ([ee89e4d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/ee89e4d25b72ca25e18dd1d6dae60817e2b3b2f9))
+
 ## [1.1.1](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.0...v1.1.1) (2026-08-01)
 
 ### :repeat: Chores
