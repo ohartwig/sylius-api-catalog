@@ -40,7 +40,7 @@ final class LinkHeaderContributor implements ResponseHeaderContributorInterface
     {
         return $this->enabled
             && !$response->isRedirection()
-            && str_contains((string) $response->headers->get('Content-Type', 'text/html'), 'text/html');
+            && str_contains($response->headers->get('Content-Type', 'text/html'), 'text/html');
     }
 
     public function contribute(Request $request, Response $response, AgentContext $context): void
