@@ -52,6 +52,24 @@ final class ApiCatalogTest extends TestCase
         ($this->controller([]))(new Request());
     }
 
+    /**
+     * Agents poll the catalog to notice when an origin's APIs change, so most
+     * requests to it are re-checks by a client that already has the document.
+     * The controller has to hand the request to the responder for that to turn
+     * into a 304 — forget it and every poll rebuilds and re-sends the linkset,
+     * which is a cost paid forever and visible nowhere.
+     */
+    public function testAReturningAgentIsAnsweredWith304(): void
+    {
+        $etag = ($this->controller())(new Request())->getEtag();
+        self::assertNotNull($etag);
+
+        $conditional = new Request();
+        $conditional->headers->set('If-None-Match', $etag);
+
+        self::assertSame(304, ($this->controller())($conditional)->getStatusCode());
+    }
+
     public function testHtmlPagesAdvertiseTheCatalog(): void
     {
         $response = $this->contribute();
