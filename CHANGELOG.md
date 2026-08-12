@@ -1,3 +1,28 @@
+## [1.1.4](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.3...v1.1.4) (2026-08-12)
+
+### :bug: Fixes
+
+* **deps:** require psr/cache, which LinkHeaderContributor type-hints ([6e5dafe](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/6e5dafe1e7144721e343fa19471f2f38e1301f88))
+* **deps:** update dependency sylius/sylius to ^2.2.8 [security] ([660f1c8](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/660f1c82d74bcb0c20ad1aa5e39a8e03d890abf5))
+
+### :white_check_mark: Tests
+
+* assert the catalog answers a conditional GET, and read the whole suite ([4e2325e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/4e2325e076c0c060d2fae6cd151dd76f7bf78ad4))
+* cover the bundle wiring and the well-known route ([e9a9ceb](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e9a9cebd96a635c826fa93e176e2abcf5239ee1b))
+* pin the Link header to its channel, locale and configured lifetime ([6d3c0aa](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/6d3c0aa679dd858a362165687e67f8a9ae298389))
+
+### :repeat: Continuous Integrations
+
+* follow the composed pipeline on [@1](https://git.ole-hartwig.eu/1) instead of an exact pin ([eb6ced6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/eb6ced655ac677e9be6350a7adec7c3ce0500eb2))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.12 ([36007d5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/36007d5ec2c0f19106f5ceaac247f57fd754e4f5))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.5 ([eec5ede](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/eec5ede8aa2c71ed1eb4c4526556227336720cdd))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.6 ([9d8b2e0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/9d8b2e0b38defc09453b3b2af07c285034f1f416))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.8 ([53008fe](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/53008feff46baf446e96027c7b02905076caeef6))
+* **deps:** update dependency phpunit/phpunit to ^11.5.56 [security] ([15a310c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/15a310cd1fc43e4152ba8da6db2d0172e791466a))
+
 ## [1.1.3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.2...v1.1.3) (2026-08-03)
 
 ### :repeat: Chores
