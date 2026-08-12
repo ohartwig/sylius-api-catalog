@@ -1,3 +1,13 @@
+## [1.1.6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.5...v1.1.6) (2026-08-12)
+
+### :bug: Fixes
+
+* **deps:** update dependency php to ^8.5.9 ([35a2746](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/35a274688cf49375fdbc69115d4863b9fb504ef6))
+
+### :repeat: Chores
+
+* **deps:** update phpstan packages ([fab7f59](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/fab7f59da95b42d83a3f9c683c6e7df68f8acff3))
+
 ## [1.1.5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.4...v1.1.5) (2026-08-12)
 
 ### :repeat: Chores
