@@ -38,7 +38,7 @@
         "moselwal/dev-sylius": "^1.0",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^2.0",
-        "phpunit/phpunit": "^11.0",
+        "phpunit/phpunit": "^11.5.56",
         "symfony/cache": "^7.4"
     },
     "autoload": {
