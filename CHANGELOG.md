@@ -1,3 +1,9 @@
+## [1.1.7](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.6...v1.1.7) (2026-08-14)
+
+### :bug: Fixes
+
+* allow the infection extension installer plugin ([df7a059](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/df7a059070dde978874fe74ef1bab5284620d64b))
+
 ## [1.1.6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.5...v1.1.6) (2026-08-12)
 
 ### :bug: Fixes
