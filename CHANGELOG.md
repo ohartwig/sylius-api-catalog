@@ -1,3 +1,9 @@
+## [1.1.8](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.7...v1.1.8) (2026-08-15)
+
+### :repeat: Chores
+
+* **ci:** enrol the Renovate bot's signing key ([5f0e708](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/5f0e708d4bc275bf3a42bba61e8ca1e223494fd5))
+
 ## [1.1.7](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.6...v1.1.7) (2026-08-14)
 
 ### :bug: Fixes
