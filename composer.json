@@ -39,7 +39,7 @@
         "phpstan/extension-installer": "^1.4.3",
         "phpstan/phpstan": "^2.2.8",
         "phpunit/phpunit": "^11.5.56",
-        "symfony/cache": "^7.4.16"
+        "symfony/cache": "^7.4.17"
     },
     "autoload": {
         "psr-4": {
