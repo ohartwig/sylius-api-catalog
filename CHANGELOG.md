@@ -1,3 +1,9 @@
+## [1.1.18](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.17...v1.1.18) (2026-09-03)
+
+### :bug: Fixes
+
+* **deps:** update dependency sylius/sylius to ^2.2.9 ([0d4c1c5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/0d4c1c52ebc4e66bbfde5f23fb83dbb254efdb50))
+
 ## [1.1.17](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.16...v1.1.17) (2026-09-02)
 
 ### :repeat: Chores
