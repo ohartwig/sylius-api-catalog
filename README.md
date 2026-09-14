@@ -55,7 +55,7 @@ when the truth is that no API bundle is installed yet.
 
 ## Link headers
 
-```
+```text
 Link: </.well-known/api-catalog>; rel="api-catalog"; type="application/linkset+json",
       </openapi.json>; rel="service-desc"; type="application/json",
       </auth.md>; rel="service-doc"; type="text/markdown"
