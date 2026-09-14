@@ -1,3 +1,9 @@
+## [1.1.21](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.20...v1.1.21) (2026-09-14)
+
+### :bug: Fixes
+
+* **docs:** Markdown-Hygiene fuer lint:markdown ([961af0c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/961af0c2039fcdb80fbb76f6b70ea6cf9341f9b9))
+
 ## [1.1.20](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.19...v1.1.20) (2026-09-13)
 
 ### :repeat: Continuous Integrations
