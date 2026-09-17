@@ -1,3 +1,9 @@
+## [1.1.23](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.22...v1.1.23) (2026-09-17)
+
+### :bug: Fixes
+
+* **deps:** update dependency psr/cache to ^3.0.0 ([397dc66](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/397dc66979398088bb10a63a50a83c008b65478a))
+
 ## [1.1.22](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.21...v1.1.22) (2026-09-15)
 
 ### :repeat: Chores
