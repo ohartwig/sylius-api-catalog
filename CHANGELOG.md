@@ -1,3 +1,9 @@
+## [1.1.25](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.24...v1.1.25) (2026-09-26)
+
+### :bug: Fixes
+
+* **deps:** update dependency php to ^8.5.11 ([11627ea](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/11627ea0a3539aa2d9f04f6128d3c4783f02ccb9))
+
 ## [1.1.24](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.23...v1.1.24) (2026-09-24)
 
 ### :repeat: Chores
