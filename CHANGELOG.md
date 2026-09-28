@@ -1,3 +1,9 @@
+## [1.1.28](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.27...v1.1.28) (2026-09-28)
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([03fc200](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/03fc200af7c5f6773cf86e19a669db22deaa049b))
+
 ## [1.1.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.26...v1.1.27) (2026-09-28)
 
 ### :memo: Documentation
