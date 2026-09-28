@@ -80,6 +80,9 @@ Remove the `composer require`, the bundle entry, the route import and
 Report vulnerabilities privately — see [SECURITY.md](SECURITY.md). Advisories
 are published as CSAF 2.0 at <https://ole-hartwig.eu/.well-known/csaf/>.
 
+The family threat model, covering this package, is at
+<https://github.com/ohartwig/sylius-agent-ready/blob/main/docs/threat-model.md>.
+
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
