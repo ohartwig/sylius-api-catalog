@@ -1,3 +1,15 @@
+## [1.1.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.26...v1.1.27) (2026-09-28)
+
+### :memo: Documentation
+
+* link the family threat model from the README ([638eb9a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/638eb9a27faa385e5a88ad324e9c7d2b09b99f1d))
+* point project metadata and contribution paths at GitHub ([f6de2ca](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/f6de2cae8d2710a8f6f46b5eb8505ee4d03fccf5))
+
+### :repeat: Chores
+
+* **reuse:** cover the template-synced .mise.toml and signing key ([28c5ab6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/28c5ab601ef438770e9682c5d2278dbc8e61423e))
+* **license:** name the copyright holder with a contact address ([edad4d3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/edad4d319c0e2b1ad7b864065e86d3a7d3f29c61))
+
 ## [1.1.26](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.25...v1.1.26) (2026-09-26)
 
 ### :repeat: Chores
