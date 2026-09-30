@@ -1,3 +1,18 @@
+## [1.1.32](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.31...v1.1.32) (2026-09-30)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update ci components ([336be97](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/336be9783a9b6cfbe07cb8a10f7a20f936c42346))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.19 ([e7f47c6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e7f47c6cb053696c9e37b9491efc8c55b1b56bf9))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.36.63 ([5990fb9](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/5990fb98255431cd7aa3789ac61efcab60239705))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.17 ([c90ce01](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/c90ce0191886b0aa5e4c0fa267ccbb15f027d6d9))
+
+### :repeat: Chores
+
+* **deps:** update dependency symfony/cache to ^7.4.20 ([7ad9bb4](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/7ad9bb452c872d93e68ba09ef4970cd1724a0e6b))
+* **deps:** update dependency devops/ci-cd-components/extension-clean-export to v1.5.6 ([729065e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/729065ea7dae3d936d000ba15cb9f6a67d92ea32))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.36.61 ([e77ec65](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e77ec65fbaec9212333e98984b2ae308f3c4a4fb))
+
 ## [1.1.31](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.30...v1.1.31) (2026-09-30)
 
 ### :bug: Fixes
