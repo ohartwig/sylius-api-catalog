@@ -1,3 +1,19 @@
+## [1.1.35](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.34...v1.1.35) (2026-10-05)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.23 ([1f2cf22](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/1f2cf22ed51807bd9b3279a0224d5ad752547376))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.22 ([9de543b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/9de543b16dcf9f5b6ff2c1fd0196599786ba3e12))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.20 ([76b71d9](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/76b71d9b6882f291d18f4000f1e5b81bcef50e11))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.19 ([a5a51e9](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/a5a51e98f543e6efc12fd3d76bdc822f9b5d29bd))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.18 ([c33e663](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/c33e663dd01c953cbb2b4cde34349d4133e24a9f))
+* **deps:** update dependency devops/ci-cd-components/extension-clean-export to v1.5.7 ([ae86dd0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/ae86dd062b6e72329a7c0c6581c9622a7b3ee782))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.17 ([fcef068](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/fcef06800479c63820002d0dd5e4d36de5c9f779))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.2.17 ([51d2a6b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/51d2a6ba6bcf99b9c7996ef06fb6d33da564789e))
+
 ## [1.1.34](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.33...v1.1.34) (2026-10-04)
 
 ### :repeat: Continuous Integrations
