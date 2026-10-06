@@ -1,3 +1,9 @@
+## [1.1.36](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.35...v1.1.36) (2026-10-06)
+
+### :repeat: Chores
+
+* **deps:** update dependency phpunit/phpunit to ^11.5.57 ([dad4283](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/dad428303d8ce6a9e374c51f5f3c8452249d241b))
+
 ## [1.1.35](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.34...v1.1.35) (2026-10-05)
 
 ### :repeat: Continuous Integrations
