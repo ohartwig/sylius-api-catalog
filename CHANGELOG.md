@@ -1,3 +1,15 @@
+## [1.1.37](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.36...v1.1.37) (2026-10-07)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.26 ([bd65a89](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/bd65a8980dc75fde5b76313f8e040050522b6fd9))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.25 ([518a53f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/518a53f6a1120ab1f7e16eee06522b65c3418f73))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.24 ([3bf59b3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/3bf59b3b1f57731816b440be06fe6d8262a5f949))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.3.0 ([97694c5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/97694c560d048f883d023a6df6b3175ad5c049f1))
+
 ## [1.1.36](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.35...v1.1.36) (2026-10-06)
 
 ### :repeat: Chores
