@@ -1,3 +1,19 @@
+## [1.1.38](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.37...v1.1.38) (2026-10-09)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.33 ([c5ba0de](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/c5ba0def28e463fbd7f7e2ea599eaead4bbbbddb))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.32 ([160217f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/160217f394a4f563c6a66ba447e59dd6a9125b02))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.31 ([b1c9c51](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/b1c9c511dc201d049f604a940c23f928f2f427c3))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.30 ([32b9cd4](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/32b9cd4e9a1813df3b37b279f0751936d5c322c7))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.29 ([ab98b21](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/ab98b218212fd3fb9fad763a8166dc2de96cadbb))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.28 ([3a3cc95](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/3a3cc95cbad223ec609d82d1f76ca353615fb28e))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.27 ([fabec18](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/fabec185a0d8d2050ecdb17823fe81c5418ecdd8))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.3.1 ([3e717b9](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/3e717b97bcdba6e52915c9597175d64285bd704a))
+
 ## [1.1.37](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.36...v1.1.37) (2026-10-07)
 
 ### :repeat: Continuous Integrations
