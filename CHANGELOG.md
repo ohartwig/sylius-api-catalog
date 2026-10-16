@@ -1,3 +1,37 @@
+## [1.1.40](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.39...v1.1.40) (2026-10-16)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.8 ([0a68464](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/0a6846466e18d49649a80b69a9d4ef1c8bfe450e))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.7 ([a004848](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/a0048480f0cdfae02c0c73140b76e7fcfa17316b))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.6 ([9536d96](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/9536d96b7ebaf7c039ea87071e0c5e9700f420bc))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.5 ([15a1a3e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/15a1a3eecd1e8a229684740e0a1fe8fcb89df5c1))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.4 ([498a5bc](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/498a5bc9f82f409a9aa072b67f154bbcb963d199))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.3 ([86fe2d6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/86fe2d68e8040b4818a5ccb8531b68e4adb1941b))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.2 ([b726f5b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/b726f5b99883bba4621f9baa833963724f5046a8))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.1 ([26dd95a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/26dd95ad2a94de5e353ebf155e71185155e87f72))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.0 ([ba23238](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/ba232386464c6f8350a8a0ed2070f771dea0202c))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.51 ([63061e2](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/63061e2eb213f59ae5d07aebad92f63647a2be1a))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.50 ([61ed39d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/61ed39d4821dbcd76b42520241140db5804ae156))
+* **deps:** update dependency devops/ci-cd-components/extension-clean-export to v1.7.0 ([626d939](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/626d939f8c8072e83624551a44e98934d93dac1a))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.49 ([e478c6a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e478c6a19b0d95c42a4cefc8316906df0ac015f7))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.48 ([389db1a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/389db1af0dd32218840e6231568ae853072db6c2))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.47 ([3bad85d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/3bad85da73bbb4aa997762be308eb9afbfba47ba))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.46 ([dcc0253](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/dcc0253ae16a07d393f6e76964fcf2ea61c5f4c2))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.45 ([20e1c83](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/20e1c839f2cb827c506f030ba4e05f5cbddaa1e1))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.44 ([a690443](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/a69044342ab232c1f5cdf5b4d61752967f8816a3))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.43 ([1b53456](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/1b5345624e99a430db9bce2a4ef2fb6e296f4d61))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.42 ([c89ef1e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/c89ef1e22bf865311a49462ba3dca22872bb415e))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.41 ([19cb801](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/19cb8013ed3d1b1aed3b1fdd3a5e4b653db0d3a1))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.40 ([afd0bc2](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/afd0bc251c42fae8a079ecf4e91b33804559872b))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.39 ([c800688](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/c80068845ebf50f2f6aace3140deb564edd05c44))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.38 ([55f0504](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/55f05046a79b448eca7b96fe64e38019c967901c))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.37 ([e855eb8](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/e855eb86310b6537b1e865bb5b63884734b97f93))
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([57c3222](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/57c3222c4b4c05fdb8977cb2959964a9b3d44fa0))
+
 ## [1.1.39](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.38...v1.1.39) (2026-10-14)
 
 ### :repeat: Continuous Integrations
