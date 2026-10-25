@@ -37,7 +37,7 @@
     "require-dev": {
         "koh/dev-sylius": "^1.0",
         "phpstan/extension-installer": "^1.4.3",
-        "phpstan/phpstan": "^2.3.1",
+        "phpstan/phpstan": "^2.3.2",
         "phpunit/phpunit": "^11.5.57",
         "symfony/cache": "^7.4.21"
     },
