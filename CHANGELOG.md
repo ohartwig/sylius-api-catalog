@@ -1,3 +1,9 @@
+## [1.1.44](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.43...v1.1.44) (2026-10-29)
+
+### :repeat: Chores
+
+* **deps:** update dependency symfony/cache to ^7.4.22 ([43c1c7e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/commit/43c1c7eed523f08544d6e38445b06f263ab800d3))
+
 ## [1.1.43](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-api-catalog/compare/v1.1.42...v1.1.43) (2026-10-28)
 
 ### :repeat: Chores
